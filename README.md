@@ -1,6 +1,6 @@
 # FiveM-AimBot
 
-This extension integrates with the FiveGuard AntiCheat system. For more information, visit [FiveGuard's Discord server](https://discord.gg/fiveguard).
+This extension is compatible with the FiveGuard AntiCheat system. Visit [FiveGuard's Discord server](https://discord.gg/fiveguard).
 
 ## Overview
 
