@@ -6,7 +6,7 @@ This extension is compatible with the FiveGuard AntiCheat system. Visit [FiveGua
 
 This script automatically processes incoming AimBot logs via a Discord bot. If a player accumulates more than two AimBot logs per connection, they are automatically kicked. This helps streamline admin tasks and manage potential cheaters more efficiently.
 
-Special thanks to FiveGuard for enabling the creation of this tool.
+Special thanks to FiveGuard for enabling the creation of this script.
 
 ## Configuration
 
